@@ -1,0 +1,82 @@
+name: Basic_network_app
+description: "Basic_network_app"
+publish_to: 'none'
+version: 5.4.1
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  google_fonts: ^6.1.0
+  flutter_launcher_icons: "^0.13.1"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/storage/learnnet.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/DB/papers/
+    - assets/storage/Flutter.png
+    - assets/storage/learnnet.png
+    - assets/storage/promic.png
+    - assets/UNIT/UNIT_1.png
+    - assets/UNIT/UNIT_2.png
+    - assets/UNIT/UNIT_3.png
+    - assets/UNIT/UNIT_4.png
+    - assets/UNIT/UNIT_5.png
+    - assets/UNIT/UNIT_6.png
+    - assets/UNIT/UNIT_7.png
+    - assets/UNIT/UNIT_8.png
+    - assets/E-Book/E_UNIT_1/E1P (1).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (2).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (3).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (4).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (5).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (6).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (7).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (8).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (9).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (10).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (11).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (12).jpeg
+    - assets/E-Book/E_UNIT_1/E1P (13).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (1).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (2).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (3).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (4).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (5).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (6).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (7).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (8).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (9).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (10).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (11).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (12).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (13).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (14).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (15).jpeg
+    - assets/E-Book/E_UNIT_2/E2P (16).jpeg
+    - assets/images/Flutter.png
+    - assets/images/React Native.png
+    - assets/images/Python.png
+    - assets/images/c#.png
+
+assets:
+    - assets/images/
+    - assets/icons/
+    - assets/DB/papers/
+    - assets/storage/
+    - assets/UNIT/
