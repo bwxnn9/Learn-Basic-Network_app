@@ -1,3 +1,6 @@
-# learnnet_v2
+#Learn Network App
 
-A new Flutter project.
+นี่เป็นโปรเจคจบของนักเรียนชั้น ปวช.3 คอมพิวเตอร์ธุรกิจ ที่ได้เริ่มเเละศึกษาเรียนรู้ พื้นฐานของการเขียนโปรแกรม เเละนี่คือแอปพลิเคชั่น ที่ ได้สร้างขึ้นมาครั้งแรก
+contact
+  -discord = Best_bm
+  -Telegram = Bowonnan Dujawan
